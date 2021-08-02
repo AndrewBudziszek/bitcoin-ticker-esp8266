@@ -25,7 +25,7 @@ Libraries Used:
 * Adafruit_SSD1306 (For the OLED Display)
 * ESP8266WiFi (For ESP8266 onboard WiFi)
 * Wire
-* ESP8266HTTPClient (To make requests to CoinMarketCap)
+* AsyncHTTPRequest_Generic (To make requests to CoinMarketCap)
 * ArduinoJson (Used to process JSON data retreived from CoinMarketCap)
 
 Once everything is verified successfully, hit the `Upload` button. If your OLED is wired up correctly, you should see the screen displaying that it's connecting to your network, then it will show the ticker. 
