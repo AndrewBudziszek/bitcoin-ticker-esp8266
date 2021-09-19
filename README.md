@@ -1,4 +1,6 @@
 # Bitcoin Ticker
+***NOT FOR COMMERCIAL USE***
+
 Bitcoin Ticker is Arduino code for `ESP8266` boards. This ticker displays the price of Bitcoin/USD and idicates whether the crypto currency went up or down. The price data comes from the CoinMarketCap API.
 
 (FYI - there are affliliate links here to hardware you might need.)
