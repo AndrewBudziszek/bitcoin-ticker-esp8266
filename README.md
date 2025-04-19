@@ -6,10 +6,10 @@ Bitcoin Ticker is Arduino code for `ESP8266` boards. This ticker displays the pr
 (FYI - there are affliliate links here to hardware you might need.)
 
 # Components
-* <a target="_blank" href="https://amzn.to/3usDgv8">0.96 Inch OLED Module 128x64 SSD1306</a>
-* <a target="_blank" href="https://amzn.to/3fV7l2u">ESP8266 ESP-12 ESP-12F NodeMcu Mini D1 Module</a>
-* <a target="_blank" href="https://amzn.to/39TUz0d">Breadboard Kit - I used a half sized breadboard.</a>
-* <a target="_blank" href="https://amzn.to/3fXhyeK">Jumper Wires - I've linked my favorite ones.</a>
+* <a target="_blank" href="https://amzn.to/3GizcZD">0.96 Inch OLED Module 128x64 SSD1306</a>
+* <a target="_blank" href="https://amzn.to/4jI4k3m">ESP8266 Mini D1 Module</a>
+* <a target="_blank" href="https://amzn.to/4jI4k3m">Breadboard Kit - I used a half sized breadboard.</a>
+* <a target="_blank" href="https://amzn.to/4cAm0LG">Jumper Wires - I've linked my favorite ones.</a>
 
 # Wiring Diagram
 ![Wiring Diagram](wire-diagram.png)
@@ -35,9 +35,7 @@ Once everything is verified successfully, hit the `Upload` button. If your OLED 
 # Usage
 Plug Micro-USB into the Arduino and everything should boot up successfully in less than 10 seconds.
 
-# Support You
-Whatever you need; questions answered, requests, bugs; make an Issue. I'll get to them as soon as I can.
-
 # Support Me
-
 Buy me a coffee - Venmo - @AndrewBudziszek
+
+(Using links might help me earn commission)
